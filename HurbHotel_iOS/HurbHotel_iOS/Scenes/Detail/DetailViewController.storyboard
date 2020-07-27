@@ -21,30 +21,27 @@
                                 <color key="backgroundColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
                                 <attributedString key="attributedText">
                                     <fragment>
-                                        <string key="content">Sr. Avaliador,
+                                        <mutableString key="content">Sr. Avaliador,
 
-Eu poderia me estender muito mais no desenvolvimento deste App para teste, porem Eu acredito que já tenha demostrado o suficiente para comprovar minhas habilidades.
+Eu poderia me estender mais no desenvolvimento deste App para teste, porem Eu acredito que já tenha bastante conteúdo para avaliação.
 
-Veja alguns pontos que consegui abordar nesse teste.
-1) Gosto muito de trabalhar com MVVM.
+Veja alguns pontos que consegui abordar.
+1) Arquitetura em MVVM.
 2) Construi interfaces complexas usando Storyboard.
 3) Desenvolvimento 100% Modular.
-4) Meu CodeStyle segue a risca o padrão do SwiftLint.
+4) CodeStyle padrão do SwiftLint.
 5) Zero Warnings no projeto.
 6) Gosto de explorar Views Customizadas, como pode ver nas telas de Fallback, tela de Sugestões e Loading.
 7) Integração com a API de busca e sugestões da Hurb.
 8) Criei um Mock Remoto para retornar os dados da tela de Destaques.
-9) Trabalho com Cocoapods e Git.
-10) Usei apenas um Pod: o Kingfisher para download e cache de imagens.
 
-Enfim, esses são os pontos que consigo levantar agora.
 Queria poder ter construído a tela de Filtro e a tela de Detalhes, mas fica pra próxima.
-Investi algo em torno de umas 20 horas nesse projeto-teste, entre: Desenvolvimento + UX/UI.
+Investi algo em torno de umas 20 horas, entre: Desenvolvimento + UX/UI.
 
-Queria deixar registrado aqui que me interessei bastante pelo projeto da Hurb, pelo seguimento e os desafios que espero encontrar.</string>
+Queria deixar registrado aqui que me interessei bastante pelo projeto da Hurb, pelo seguimento de negócio e os desafios que espero encontrar.</mutableString>
                                         <attributes>
+                                            <color key="NSColor" red="0.26051741839999998" green="0.2605243921" blue="0.260520637" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                             <font key="NSFont" size="13" name="Helvetica-Light"/>
-                                            <font key="NSOriginalFont" size="13" name="Helvetica-Light"/>
                                             <paragraphStyle key="NSParagraphStyle" alignment="left" lineBreakMode="wordWrapping" baseWritingDirection="natural" tighteningFactorForTruncation="0.0" allowsDefaultTighteningForTruncation="NO">
                                                 <tabStops>
                                                     <textTab alignment="left" location="28.299999237060547">
@@ -92,8 +89,8 @@ Queria deixar registrado aqui que me interessei bastante pelo projeto da Hurb, p
 Cgo
 </string>
                                         <attributes>
+                                            <color key="NSColor" red="0.26051741839999998" green="0.2605243921" blue="0.260520637" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                             <font key="NSFont" metaFont="user" size="13"/>
-                                            <font key="NSOriginalFont" metaFont="user" size="13"/>
                                             <paragraphStyle key="NSParagraphStyle" alignment="left" lineBreakMode="wordWrapping" baseWritingDirection="natural" tighteningFactorForTruncation="0.0" allowsDefaultTighteningForTruncation="NO">
                                                 <tabStops>
                                                     <textTab alignment="left" location="28.299999237060547">
@@ -140,9 +137,9 @@ Cgo
                                         <string key="content">helio.engenharia@gmail.com
 11 96619-1991</string>
                                         <attributes>
+                                            <color key="NSColor" red="0.26051741839999998" green="0.2605243921" blue="0.260520637" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                             <font key="NSFont" size="13" name="HelveticaNeue-Light"/>
-                                            <font key="NSOriginalFont" size="13" name="HelveticaNeue-Light"/>
-                                            <paragraphStyle key="NSParagraphStyle" alignment="natural" lineBreakMode="wordWrapping" baseWritingDirection="natural" tighteningFactorForTruncation="0.0" allowsDefaultTighteningForTruncation="NO">
+                                            <paragraphStyle key="NSParagraphStyle" alignment="left" lineBreakMode="wordWrapping" baseWritingDirection="natural" tighteningFactorForTruncation="0.0" allowsDefaultTighteningForTruncation="NO">
                                                 <tabStops>
                                                     <textTab alignment="left" location="28.299999237060547">
                                                         <options/>
